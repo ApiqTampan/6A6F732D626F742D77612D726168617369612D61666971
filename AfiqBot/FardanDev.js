@@ -165,11 +165,11 @@ https://chat.whatsapp.com/BKKYXqSzpIcAhbAIpfU8xF
 * *Channel Testimoni :*
 https://whatsapp.com/channel/0029VaxBJmYIN9ikXUTqdY1A
 
-*👤 Contact JANNxZYUU*
+*👤 Contact Afiq*
 * *WhatsApp Utama :*
-+6283104383637
++6281225386003
 * *WhtasApp Cadangan :*
-+6288272150093
++62882006674435
 `}, {quoted: null})
 }
 }
